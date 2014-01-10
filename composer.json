@@ -12,9 +12,9 @@
     "target-dir": "Directface/Admin",
     "require": {
         "php": ">=5.3.3",
-        "zendframework/zend-eventmanager": "self.version",
-        "zendframework/zend-servicemanager": "self.version",
-        "zendframework/zend-stdlib": "self.version"
+        "zendframework/zend-eventmanager": "2.*",
+        "zendframework/zend-servicemanager": "2.*",
+        "zendframework/zend-stdlib": "2.*"
     },
     "suggest": {
 
