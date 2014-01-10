@@ -2,6 +2,7 @@
     "name": "zingorn/directface-admin",
     "description": "Admin Module of Direct Face",
     "license": "BSD-3-Clause",
+    "type": "library",
     "keywords": [
     ],
     "autoload": {
