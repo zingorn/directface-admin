@@ -1,0 +1,28 @@
+{
+    "name": "zingorn/directface-admin",
+    "description": " ",
+    "license": "BSD-3-Clause",
+    "keywords": [
+    ],
+    "autoload": {
+        "psr-0": {
+            "Directface\\Admin\\": ""
+        }
+    },
+    "target-dir": "Directface/Admin",
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zend-eventmanager": "self.version",
+        "zendframework/zend-servicemanager": "self.version",
+        "zendframework/zend-stdlib": "self.version"
+    },
+    "suggest": {
+
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.2-dev",
+            "dev-develop": "2.3-dev"
+        }
+    }
+}
