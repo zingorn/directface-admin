@@ -1,6 +1,6 @@
 {
     "name": "zingorn/directface-admin",
-    "description": " ",
+    "description": "Admin Module of Direct Face",
     "license": "BSD-3-Clause",
     "keywords": [
     ],
@@ -18,11 +18,5 @@
     },
     "suggest": {
 
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.2-dev",
-            "dev-develop": "2.3-dev"
-        }
     }
 }
